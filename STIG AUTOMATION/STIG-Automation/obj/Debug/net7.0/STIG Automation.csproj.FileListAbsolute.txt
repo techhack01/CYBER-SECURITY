@@ -1,0 +1,15 @@
+C:\STIG Automation\bin\Debug\net7.0\STIG Automation.exe
+C:\STIG Automation\bin\Debug\net7.0\STIG Automation.deps.json
+C:\STIG Automation\bin\Debug\net7.0\STIG Automation.runtimeconfig.json
+C:\STIG Automation\bin\Debug\net7.0\STIG Automation.dll
+C:\STIG Automation\bin\Debug\net7.0\STIG Automation.pdb
+C:\STIG Automation\obj\Debug\net7.0\STIG Automation.csproj.AssemblyReference.cache
+C:\STIG Automation\obj\Debug\net7.0\STIG Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\STIG Automation\obj\Debug\net7.0\STIG Automation.AssemblyInfoInputs.cache
+C:\STIG Automation\obj\Debug\net7.0\STIG Automation.AssemblyInfo.cs
+C:\STIG Automation\obj\Debug\net7.0\STIG Automation.csproj.CoreCompileInputs.cache
+C:\STIG Automation\obj\Debug\net7.0\STIG Automation.dll
+C:\STIG Automation\obj\Debug\net7.0\refint\STIG Automation.dll
+C:\STIG Automation\obj\Debug\net7.0\STIG Automation.pdb
+C:\STIG Automation\obj\Debug\net7.0\STIG Automation.genruntimeconfig.cache
+C:\STIG Automation\obj\Debug\net7.0\ref\STIG Automation.dll
